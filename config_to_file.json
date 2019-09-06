@@ -1,0 +1,14 @@
+{
+"datasets":["path-dataset1","path-dataset2","path-dataset3"],
+"nameOutput":["D1","D2","D3"],
+"nbRuns":3,
+"ratios":[0.8,0.2,0.5],
+"attacks":[
+	{"id":"ILL-Attack",
+ 	 "params":{ 
+		"fixedTimeSplit":[86400,25000],
+		"level":[13]
+		}
+	}
+	]
+}
