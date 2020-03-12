@@ -1,4 +1,4 @@
-psutil==5.4.8
+psutil==5.6.6
 pandas==0.23.4
 TPOT==0.9.5
 numpy==1.16.0
